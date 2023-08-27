@@ -1,6 +1,6 @@
-# Secure and Monitored Three-Server Web Infrastructure for www.foobar.com
+# Secure and Monitored Tow-Server Web Infrastructure for www.foobar.com
 
-This README outlines the design and details of the secure and monitored three-server web infrastructure hosting the website www.foobar.com.
+This README outlines the design and details of the secure and monitored tow-server web infrastructure hosting the website www.foobar.com.
 
 ## Infrastructure Design
 

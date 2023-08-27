@@ -1,8 +1,3 @@
-
-# Application Server vs Web Server Infrastructure
-
-This README explains the distinction between an Application Server and a Web Server within a specific infrastructure, while also outlining the setup requirements.
-
 ## Infrastructure Overview
 
 The infrastructure includes the following components:
